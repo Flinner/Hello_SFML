@@ -23,3 +23,4 @@ Run:
 ```
 
 make sure to run in root project directory, as `assets` are in the root
+
